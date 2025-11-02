@@ -474,7 +474,7 @@ function App() {
 
         <div className="text-center mt-8 text-gray-400 text-sm">
           <p>Advanced humanization algorithm</p>
-          <p className="mt-1 text-xs text-gray-500">For production use, integrate OpenAI API with custom prompts</p>
+          <p className="mt-1 text-xs text-gray-500">For best results, provide clear context</p>
           <div className="mt-4 pt-4 border-t border-gray-700">
             <p className="text-gray-300 font-semibold">Made with ❤️ by <span className="text-blue-400">Anuj Pareek</span></p>
           </div>
